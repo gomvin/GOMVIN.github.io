@@ -26,7 +26,7 @@
     <section id="about">
         <h2>Acerca de mí</h2>
         <p>¡Hola! Soy Kevin Paul Taype Soriano, un estudiantes de Ingenieria de Sistemas de la Universidad Nacional del Centro del Peru, vivo el día a día con la pasión por el avance tecnologico en las habilidades de animación y la función de la inteligencia artificial como apoyo en esta rama, me encuentro capacitado en las herramientas de Frontend como el JavaScript y HTML, respecto al Backend en Python y Java, por ultimo el manejo de base de datos como MySql, Sql Server y Mongo DB, obteniendo con todas estas herramientas las capacidades para desarrollar proyectos tecnologicos en apoyo del desarrollo de la mi ciudad, región y pais.  </p>
-        <img src="C:/Users/KEVIN/Desktop/IMG_DESK/269445.jpg" alt="Proyecto 1">
+        <img src="C:/Users/KEVIN/Desktop/IMG_DESK/811205.png" alt="Proyecto 1">
     </section>
 
     <section id="projects">
