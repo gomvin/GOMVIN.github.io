@@ -1,22 +1,21 @@
 # GOMVIN.github.io
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Mi Portafolio</title>
+    <title>Mi Portafolio Electrónico</title>
 </head>
 <body>
     <header>
-        <h1>Mi Portafolio</h1>
+        <h1>Mi Portafolio Electrónico</h1>
         <p>Bienvenido a mi portafolio electrónico.</p>
     </header>
     
     <section id="about">
         <h2>Acerca de mí</h2>
-        <p>¡Hola! Soy [Tu Nombre], un apasionado de la tecnología y el desarrollo web...</p>
+        <p>¡Hola! Soy Kevin Paul Taype Soriano, un estudiantes de Ingenieria de Sistemas de la Universidad Nacional del Centro del Peru, vivo el día a día con la pasión por el avance tecnologico en las habilidades de animación y la función de la inteligencia artificial como apoyo en esta rama, me encuentro capacitado en las herramientas de Frontend como el JavaScript y HTML, respecto al Backend en Python y Java, por ultimo el manejo de base de datos como MySql, Sql Server y Mongo DB, obteniendo con todas estas herramientas las capacidades para desarrollar proyectos tecnologicos en apoyo del desarrollo de la mi ciudad, región y pais.  </p>
     </section>
 
     <section id="projects">
@@ -31,11 +30,11 @@
 
     <section id="contact">
         <h2>Contacto</h2>
-        <p>Puedes contactarme en [correo electrónico] o a través de mis redes sociales...</p>
+        <p>Puedes contactarme en kevingomvin@gmail.com</p>
     </section>
 
     <footer>
-        <p>&copy; 2023 [Tu Nombre]. Todos los derechos reservados.</p>
+        <p>&copy; 2023 GOMVIN. Todos los derechos reservados.</p>
     </footer>
 </body>
 </html>
