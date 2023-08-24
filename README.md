@@ -6,11 +6,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Mi Portafolio Electrónico</title>
+    <title>Mi Portafolio Electrónico - Desarrollo de aplicaciones web</title>
 </head>
 <body>
     <header>
-        <h1>Mi Portafolio Electrónico</h1>
+        <h1>Mi Portafolio Electrónico - Desarrollo de aplicaciones web</h1>
         <p>Bienvenido a mi portafolio electrónico.</p>
     </header>
 
