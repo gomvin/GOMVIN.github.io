@@ -14,14 +14,7 @@
         <p>Bienvenido a mi portafolio electrónico.</p>
     </header>
 
-<section id="projects">
-    <h2>Proyectos</h2>
-    <div class="project">
-        <h3>Proyecto 1</h3>
-        <p>Descripción breve del proyecto...</p>
-        <a href="#">Ver proyecto</a>
-        <img src="C:/Users/KEVIN/Desktop/IMG_DESK/269445.jpg" alt="Proyecto 1">
-    </div>
+
     
     <section id="about">
         <h2>Acerca de mí</h2>
